@@ -1,0 +1,91 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Faizal Anwar",
+          "alamat": "Cirebon",
+          "umur": 21,
+          "nohp": "08123123123"
+        },
+        {
+          "id": 2,
+         " nama": "Muhammad Haikal Farhan",
+          "alamat": "Jakarta",
+          "umur": 17,
+          "nohp": "08123123123"
+        },
+        {
+          "id": 3,
+          "nama": "Zidan Khoirun Nabil",
+          "alamat": "Bandung",
+          "umur": 12,
+          "nohp": "088321321231"
+        },
+        {
+            "id": 4,
+            "nama": "Faizal Anwar",
+            "alamat": "Cirebon",
+            "umur": 21,
+            "nohp": "081312091820"
+          },
+          {
+            "id": 5,
+           " nama": "Muhammad Haikal Farhan",
+            "alamat": "Jakarta",
+            "umur": 17,
+            "nohp": "08123123123"
+          },
+          {
+            "id": 6,
+            "nama": "Zidan Khoirun Nabil",
+            "alamat": "Bandung",
+            "umur": 12,
+            "nohp": "088321321231"
+          },
+          {
+            "id": 7,
+            "nama": "Faizal Anwar",
+            "alamat": "Cirebon",
+            "umur": 21,
+            "nohp": "081312091820"
+          },
+          {
+            "id": 8,
+           " nama": "Muhammad Haikal Farhan",
+            "alamat": "Jakarta",
+            "umur": 17,
+            "nohp": "08123123123"
+          },
+          {
+            "id": 9,
+            "nama": "Zidan Khoirun Nabil",
+            "alamat": "Bandung",
+            "umur": 12,
+            "nohp": "088321321231"
+          },
+          {
+            "id": 10,
+            "nama": "Faizal Anwar",
+            "alamat": "Cirebon",
+            "umur": 21,
+            "nohp": "081312091820"
+          },
+          {
+            "id": 12,
+           " nama": "Muhammad Haikal Farhan",
+            "alamat": "Jakarta",
+            "umur": 17,
+            "nohp": "08123123123"
+          },
+          {
+            "id": 13,
+            "nama": "Zidan Khoirun Nabil",
+            "alamat": "Bandung",
+            "umur": 12,
+            "nohp": "088321321231"
+          }
+
+        
+      ]
+    
+}
